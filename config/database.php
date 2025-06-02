@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', 'jhonadr159');
+define('DB_USER', '');
+define('DB_PASS', '');
 define('DB_NAME', 'computec_marketplace');
 
 try {
